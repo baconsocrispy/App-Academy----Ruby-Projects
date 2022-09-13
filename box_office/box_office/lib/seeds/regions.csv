@@ -1,0 +1,36 @@
+﻿id,name,display_region_id,is_master_region,display_priority
+1,North America,16,,
+2,South America,2,t,4
+3,Central America,2,,
+4,Africa,,,
+5,Europe,5,t,2
+6,Asia,6,t,5
+7,Middle East,7,t,6
+8,Eastern Europe,8,t,3
+9,C.I.S.,8,,
+10,Ex-Yugoslavia,8,,
+11,Baltics,8,,
+12,East Africa,16,,
+13,Southern Africa,16,,
+14,West Africa,16,,
+15,West Indies,2,,
+16,English-Language,16,t,1
+17,Benelux,5,,
+18,German-Language,5,,
+19,Scandinavia,5,,
+20,Switzerland,5,,
+21,Czech-Slovak,8,,
+22,Portuguese-Language,5,,
+23,French-Language,5,,
+24,Italian-Language,5,,
+25,Oceania,16,,
+26,Australia,16,,
+27,New Zealand,16,,
+28,Spanish-Language,5,,
+29,Caribbean Basin,1,,
+30,India,6,,
+31,Greece,5,,
+32,Arabic North Africa,7,,
+33,Island Nation,,,
+34,United Kingdom,16,,
+35,Ungrouped,,,

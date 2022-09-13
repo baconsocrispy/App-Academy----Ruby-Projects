@@ -1,0 +1,36 @@
+﻿id,name,display_region_id,master_region?,display_priority
+1,North America,16,FALSE,
+2,South America,2,TRUE,4
+3,Central America,2,FALSE,
+4,Africa,,FALSE,
+5,Europe,5,TRUE,2
+6,Asia,6,TRUE,5
+7,Middle East,7,TRUE,6
+8,Eastern Europe,8,TRUE,3
+9,C.I.S.,8,FALSE,
+10,Ex-Yugoslavia,8,FALSE,
+11,Baltics,8,FALSE,
+12,East Africa,16,FALSE,
+13,Southern Africa,16,FALSE,
+14,West Africa,16,FALSE,
+15,West Indies,2,FALSE,
+16,English-Language,16,TRUE,1
+17,Benelux,5,FALSE,
+18,German-Language,5,FALSE,
+19,Scandinavia,5,FALSE,
+20,Switzerland,5,FALSE,
+21,Czech-Slovak,8,FALSE,
+22,Portuguese-Language,5,FALSE,
+23,French-Language,5,FALSE,
+24,Italian-Language,5,FALSE,
+25,Oceania,16,FALSE,
+26,Australia,16,FALSE,
+27,New Zealand,16,FALSE,
+28,Spanish-Language,5,FALSE,
+29,Caribbean Basin,1,FALSE,
+30,India,6,FALSE,
+31,Greece,5,FALSE,
+32,Arabic North Africa,7,FALSE,
+33,Island Nation,,FALSE,
+34,United Kingdom,16,FALSE,
+35,Ungrouped,,FALSE,

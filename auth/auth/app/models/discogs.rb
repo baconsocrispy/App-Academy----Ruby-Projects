@@ -1,0 +1,1 @@
+wrapper = Discogs::Wrapper.new("TestApp")

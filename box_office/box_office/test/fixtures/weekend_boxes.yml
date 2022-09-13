@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  distributed_territory_id: 1
+  weekend_number: 1
+  start_date: 2021-06-03
+  end_date: 2021-06-03
+  currency_id: 1
+  local_currency_gross: 1.5
+  admission: 1
+  rank: 1
+  screen_count: 1
+  location_count: 1
+
+two:
+  distributed_territory_id: 1
+  weekend_number: 1
+  start_date: 2021-06-03
+  end_date: 2021-06-03
+  currency_id: 1
+  local_currency_gross: 1.5
+  admission: 1
+  rank: 1
+  screen_count: 1
+  location_count: 1

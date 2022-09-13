@@ -1,0 +1,57 @@
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  border-bottom: 1px solid $light-gray;
+}
+
+.left-nav > ul,
+.right-nav > ul {
+  display: flex;
+  align-items: center;
+}
+
+.left-nav {
+
+  > ul {
+    > li {
+      font-family: $sans-serif;
+      font-weight: bold;
+      font-size: inherit;
+      text-transform: inherit;
+      padding: 6px;
+      border-radius: 2px;
+      transition: background-color 1s;
+    }
+  }
+
+  span {
+    
+  }
+}
+
+.right-nav  {
+
+  > ul {
+
+    > li {
+      padding: 6px;
+    }
+
+    > li:last-of-type {
+      transition: background-color 1s;
+      font-size: 24px;
+    }
+  }
+  
+  i {
+
+  }
+}
+
+.left-nav > ul > li:hover,
+.right-nav > ul > li:last-of-type:hover {
+  background-color: $light-gray;
+
+}

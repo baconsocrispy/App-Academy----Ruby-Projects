@@ -1,0 +1,239 @@
+id,name,weekend_start,region_id,continent_id,default_currency,is_displayed
+1,United States,Friday,1,1,USD,t
+2,Admiralty Island,Friday,26,33,XCD,
+3,Afghanistan,Friday,35,6,AFN,
+4,Albania,Friday,8,5,ALL,
+5,Algeria,Friday,23,4,DZD,
+6,Alto Adige,Friday,24,5,EUR,
+7,Andorra,Friday,28,5,EUR,
+8,Angola,Friday,22,4,AOA,
+9,Antigua and Barbuda,Friday,15,29,XCD,
+10,Argentina,Friday,2,2,ARS,t
+11,Armenia,Friday,9,6,AMD,
+12,Aruba,Friday,15,29,AWG,
+13,Ashmore Islands,Friday,26,33,AUD,
+14,Australia,Thursday,26,26,AUD,t
+15,Austria,Friday,18,5,EUR,t
+16,Azerbaijan,Friday,9,6,AZN,
+17,Bahamas,Friday,29,29,BSD,
+18,Bahrain,Friday,7,6,BHD,t
+19,Baleares Islands,Friday,28,33,EUR,
+20,Bangladesh,Friday,30,6,BDT,
+21,Barbados,Friday,15,29,BBD,
+22,Belarus,Friday,9,5,BYN,
+23,Belgium,Wednesday,17,5,EUR,t
+24,Belize,Friday,3,2,BZD,
+25,Benin,Friday,23,4,XOF,
+26,Bermuda,Friday,29,29,BMD,
+27,Bhutan,Friday,30,6,BTN,
+28,Bolivia,Friday,2,2,BOB,t
+29,Bosnia and Herzegovina,Friday,10,5,BAM,
+30,Botswana,Friday,13,4,BWP,
+31,Brazil,Thursday,2,2,BRL,t
+32,Brunei,Friday,35,6,BND,
+33,Bulgaria,Friday,8,5,BGN,t
+34,Burkina Faso,Friday,23,4,XOF,
+35,Burundi,Friday,23,4,BIF,
+36,Cabo Verde,Friday,22,4,CVE,
+37,Cambodia,Friday,6,6,KHR,t
+38,Cameroon,Friday,23,4,XAF,
+39,Canada,Friday,1,1,CAD,t
+40,Canary Islands,Friday,28,33,EUR,
+41,Cayman Island,Friday,15,29,KYD,
+42,Central African Republic,Friday,23,4,XAF,
+43,Chad,Friday,23,4,XAF,
+44,Chile,Friday,2,2,CLP,t
+45,China,Friday,6,6,CNY,t
+46,Christmas Islands,Friday,26,33,AUD,
+47,Clipperton Island,Friday,23,33,EUR,
+48,Colombia,Friday,2,2,COP,t
+49,Comoros,Friday,23,4,KMF,
+50,Congo (Congo-Brazzaville),Friday,23,4,XAF,
+51,Cook Islands,Friday,27,33,NZD,
+52,Costa Rica,Friday,3,2,CRC,
+53,Côte d'Ivoire,Friday,23,4,XOF,
+54,Croatia,Friday,10,5,HRK,t
+55,Cuba,Friday,29,33,CUP,
+56,Curacao,Friday,15,29,ANG,
+57,Cyprus,Friday,31,5,EUR,
+58,Czech Republic,Thursday,21,5,CZK,
+59,Democratic Republic of the Congo,Friday,23,4,CDF,
+60,Denmark,Thursday,19,5,DKK,t
+61,Djibouti,Friday,23,4,DJF,
+62,Dominica,Friday,29,29,XCD,
+63,Dominican Republic,Friday,29,33,DOP,
+64,East Africa,Friday,12,4,ZAR,
+65,Ecuador,Friday,2,2,USD,t
+66,Egypt,Friday,32,4,EGP,t
+67,El Salvador,Friday,3,2,USD,
+68,Equatorial Guinea,Friday,23,4,XAF,
+69,Eritrea,Friday,35,4,ERN,
+70,Estonia,Friday,11,5,EUR,t
+71,"Eswatini (fmr. ""Swaziland"")",Friday,13,4,SZL,
+72,Ethiopia,Friday,12,4,ETB,
+73,Fiji,Friday,27,33,FJD,
+74,Finland,Friday,19,5,EUR,t
+75,France,Wednesday,23,5,EUR,t
+76,French Polynesia,Friday,23,33,XPF,
+77,French-Speaking Belgium,Friday,17,5,EUR,
+78,French-Speaking Switzerland,Friday,20,5,CHF,t
+79,Gabon,Friday,23,4,XAF,
+80,Gambia,Friday,23,4,GMD,
+81,Georgia,Friday,9,5,GEL,
+82,German-Speaking Switzerland,Thursday,20,5,CHF,t
+83,Germany,Thursday,18,5,EUR,t
+84,Ghana,Friday,14,4,GHS,
+85,Greece,Thursday,31,5,EUR,t
+86,Grenada,Friday,15,29,XCD,
+87,Guadeloupe,Friday,23,33,EUR,
+88,Guatemala,Friday,3,2,GTQ,
+89,Guinea,Friday,23,4,GNF,
+90,Guinea-Bissau,Friday,22,4,XOF,
+91,Guyana,Friday,2,2,GYD,
+92,Haiti,Friday,23,33,HTG,
+93,Holy See,Friday,24,5,EUR,
+94,Honduras,Friday,3,2,HNL,
+95,Hungary,Friday,8,5,HUF,t
+96,Iceland,Friday,19,5,ISK,t
+97,India,Friday,30,6,INR,t
+98,Indonesia,Friday,6,6,IDR,t
+99,Iran,Friday,7,6,IRR,
+100,Iraq,Friday,7,6,IQD,t
+101,Ireland,Friday,34,5,EUR,
+102,Israel,Friday,6,5,ILS,t
+103,Italian-Speaking Switzerland,Friday,20,5,CHF,t
+104,Italy,Thursday,24,5,EUR,t
+105,Jamaica,Friday,15,29,JMD,
+106,Japan,Friday,6,6,JPY,t
+107,Jordan,Friday,7,6,JOD,t
+108,Kazakhstan,Friday,9,6,KZT,
+109,Kenya,Friday,12,4,KES,
+110,Kiribati,Friday,35,33,AUD,
+111,Kosovo,Friday,10,5,EUR,
+112,Kuwait,Friday,7,6,KWD,t
+113,Kyrgyzstan,Friday,9,6,KGS,
+114,Laos,Friday,6,6,LAK,
+115,Latvia,Friday,11,5,EUR,t
+116,Lebanon,Friday,7,6,LBP,t
+117,Lesotho,Friday,13,4,LSL,
+118,Liberia,Friday,35,4,LRD,
+119,Libya,Friday,32,4,LYD,
+120,Liechtenstein,Friday,18,5,CHF,
+121,Lithuania,Friday,11,5,EUR,t
+122,Loyalty Islands,Friday,23,33,CFP,
+123,Luxembourg,Friday,17,5,EUR,
+124,Madagascar,Friday,23,4,MGA,
+125,Malawi,Friday,13,4,MWK,
+126,Malaysia,Friday,6,6,MYR,t
+127,Maldives,Friday,30,33,MVR,
+128,Mali,Friday,23,4,XOF,
+129,Malta,Friday,24,5,EUR,
+130,Marie-Galante,Friday,23,33,EUR,
+131,Marshall Islands,Friday,35,33,USD,
+132,Martinique,Friday,23,33,EUR,
+133,Mauritania,Friday,23,4,MRU,
+134,Mauritius,Friday,23,4,MUR,
+135,Mexico,Friday,2,2,MXN,t
+136,Micronesia,Friday,35,33,USD,
+137,Moldova,Friday,9,5,MDL,
+138,Monaco,Friday,23,5,EUR,
+139,Mongolia,Friday,6,6,MNT,
+140,Montenegro,Friday,10,5,USD,
+141,Morocco,Friday,23,4,MAD,
+142,Mozambique,Friday,22,4,MZN,
+143,Myanmar,Friday,6,6,MMK,
+144,Namibia,Friday,13,4,NAD,
+145,Nauru,Friday,26,33,AUD,
+146,Nepal,Friday,30,6,NPR,
+147,Netherlands,Thursday,17,5,EUR,t
+148,New Britain,Friday,26,33,PGK,
+149,New Caledonia,Friday,26,33,XPF,
+150,New Ireland,Friday,26,33,PGK,
+151,New Zealand,Thursday,27,26,NZD,
+152,Nicaragua,Friday,3,2,NIO,
+153,Niger,Friday,23,4,XOF,
+154,Nigeria,Friday,14,4,NGN,
+155,Norfolk Island,Friday,27,33,AUD,
+156,North Korea,Friday,35,6,KPW,
+157,North Macedonia,Friday,10,5,MKD,
+158,Norway,Friday,19,5,NOK,t
+159,Ocean Island,Friday,26,33,KMF,
+160,Oman,Friday,7,6,OMR,t
+161,Pakistan,Friday,30,6,PKR,
+162,Palau,Friday,35,33,USD,
+163,Palestine State,Friday,7,6,ILS,
+164,Panama,Friday,3,2,USD,
+165,Papua New Guinea,Friday,26,33,PGK,
+166,Paraguay,Friday,2,2,PYG,t
+167,Peru,Friday,2,2,PEN,t
+168,Philippines,Friday,6,6,PHP,t
+169,Poland,Friday,8,5,PLN,t
+170,Portugal,Friday,22,5,EUR,t
+171,Qatar,Friday,7,6,QAR,t
+172,Raratonga,Friday,27,33,NZD,
+173,Reunion Island,Friday,23,33,EUR,
+174,Romania,Friday,8,5,RON,t
+175,Russia,Thursday,9,5,RUB,t
+176,Rwanda,Friday,23,4,RWF,
+177,Saint Barthélemy,Friday,23,33,EUR,
+178,Saint Desirade,Friday,23,33,EUR,
+179,Saint Kitts and Nevis,Friday,15,29,XCD,
+180,Saint Lucia,Friday,15,29,XCD,
+181,Saint Pierre and Miquelon,Friday,23,33,EUR,
+182,Saint Vincent and the Grenadines,Friday,15,29,XCD,
+183,Samoa,Friday,27,33,USD,
+184,San Marino,Friday,24,5,EUR,
+185,Sao Tome and Principe,Friday,22,4,STN,
+186,Saudi Arabia,Friday,7,6,SAR,t
+187,Senegal,Friday,23,4,XOF,
+188,Serbia,Friday,10,5,RSD,t
+189,Seychelles,Friday,23,33,SCR,
+190,Sierra Leone,Friday,35,4,SLL,
+191,Singapore,Friday,6,6,SGD,t
+192,Slovakia,Friday,21,5,EUR,t
+193,Slovenia,Friday,10,5,EUR,t
+194,Society Islands,Friday,23,33,XPF,
+195,Solomon Islands,Friday,26,33,SBD,
+196,Somalia,Friday,35,4,SOS,
+197,South Africa,Friday,13,4,ZAR,t
+198,South Korea,Friday,6,6,KRW,t
+199,South Sudan,Friday,12,4,SSP,
+200,Spain,Friday,28,5,EUR,t
+201,Sri Lanka,Friday,30,6,LKR,
+202,Sudan,Friday,32,4,SDG,
+203,Suriname,Friday,15,2,SRD,
+204,Sweden,Friday,19,5,SEK,t
+205,Switzerland,Friday,20,5,CHF,
+206,Syria,Friday,7,6,SYP,
+207,Tahiti,Friday,23,33,CFP,
+208,Tajikistan,Friday,9,6,TJS,
+209,Tanzania,Friday,12,4,TZS,
+210,Thailand,Friday,6,6,THB,t
+211,Timor-Leste,Friday,35,33,USD,
+212,Togo,Friday,23,4,XOF,
+213,Tokelau Islands,Friday,27,33,NZD,
+214,Tonga,Friday,27,33,TOP,
+215,Tortola,Friday,15,29,USD,
+216,Trinidad and Tobago,Friday,15,29,TTD,
+217,Tubuai,Friday,23,33,XPF,
+218,Tunisia,Friday,23,4,TND,
+219,Turkey,Friday,5,5,TRY,t
+220,Turkmenistan,Friday,9,6,TMT,
+221,Tuvalu,Friday,27,33,AUD,
+222,Uganda,Friday,12,4,UGX,
+223,Ukraine,Friday,9,5,UAH,t
+224,United Arab Emirates,Friday,7,6,AED,t
+225,United Kingdom,Friday,34,5,GBP,t
+226,Uruguay,Friday,2,2,UYU,t
+227,Uzbekistan,Friday,9,6,UZS,
+228,Vanuatu,Friday,26,33,VUV,
+229,Venezuela,Friday,2,2,VES,t
+230,Vietnam,Friday,6,6,VND,t
+231,Wallis & Futuna,Friday,23,33,XPF,
+232,West Africa,Friday,14,4,ZAR,
+233,Yemen,Friday,7,6,YER,
+234,Zambia,Friday,12,4,ZMW,
+235,Zimbabwe,Friday,12,4,ZWL,
+236,West Indies,Friday,15,29,TTD,
+237,Hong Kong,Friday,6,6,HKD,
+238,Taiwan,Friday,6,6,TWD,

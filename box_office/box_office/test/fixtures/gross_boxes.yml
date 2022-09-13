@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  local_currency_gross: 1.5
+  admissions: 1
+  currency_id: 1
+
+two:
+  local_currency_gross: 1.5
+  admissions: 1
+  currency_id: 1

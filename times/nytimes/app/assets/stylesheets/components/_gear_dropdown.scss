@@ -1,0 +1,23 @@
+// Use the gear_dropdown.png screenshot as a style guide
+
+#gear-btn:hover .gear-dropdown {
+  display: block;
+}
+
+.gear-dropdown {
+  position: absolute;
+  font-family: $sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+
+  > ul > span {
+    font-size: 8px;
+  }
+  .editions {
+    display: block;
+  }
+
+  .help {
+    display: block
+  }
+}

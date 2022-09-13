@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  weekend_start: MyString
+
+two:
+  name: MyString
+  weekend_start: MyString
